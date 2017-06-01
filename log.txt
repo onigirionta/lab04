@@ -1,0 +1,83 @@
+Main menu. Choose subprogram:
+2 -- Bitwise calcucator
+3 -- Data allocation
+4 -- Text search in file
+Array address     0x7ffe2cf28e30
+Array size                   120
+name:
+	Value                 Ivan
+	Addres      0x7ffe2cf28e58
+	Offset                   0
+	Size                    17
+	Hex       
+49 76 61 6E 00 7F 00 00 00 00 00 00 00 00 00 00
+61 
+	Binary    
+01001001 01110110 01100001 01101110
+00000000 01111111 00000000 00000000
+00000000 00000000 00000000 00000000
+00000000 00000000 00000000 00000000
+01100001 
+year_start:
+	Value                 2014
+	Addres      0x7ffe2cf28e6a
+	Offset                  18
+	Size                     2
+	Hex       
+DE 07 
+	Binary    
+11011110 00000111 
+rate:
+	Value                 3.55
+	Addres      0x7ffe2cf28e6c
+	Offset                  20
+	Size                     4
+	Hex       
+33 33 63 40 
+	Binary    
+00110011 00110011 01100011 01000000
+
+num_c:
+	Value                    3
+	Addres      0x7ffe2cf28e72
+	Offset                  26
+	Size                     2
+	Hex       
+03 00 
+	Binary    
+00000011 00000000 
+groupHead:
+	Value       0x7ffe2cf28e30
+	Addres      0x7ffe2cf28e78
+	Offset                  32
+	Size                     8
+	Hex       
+30 8E F2 2C FE 7F 00 00 
+	Binary    
+00110000 10001110 11110010 00101100
+11111110 01111111 00000000 00000000
+
+
+The whole array in one piece
+44 61 72 69 61 00 00 00 40 41 60 00 00 00 00 00
+D0 8E DF 07 5C 8F 8A 40 A0 12 02 00 00 00 00 00
+00 00 00 00 00 00 00 00 49 76 61 6E 00 7F 00 00
+00 00 00 00 00 00 00 00 61 BA DE 07 33 33 63 40
+AD 8E 03 00 FE 7F 00 00 30 8E F2 2C FE 7F 00 00
+4F 6C 65 67 00 7F 00 00 26 C7 B4 0D 59 7F 00 00
+AC 8E DF 07 EC 51 98 40 B0 8E 02 00 FE 7F 00 00
+30 8E F2 2C FE 7F 00 00 
+
+The array, element by element
+44 61 72 69 61 00 00 00 40 41 60 00 00 00 00 00
+D0 8E DF 07 5C 8F 8A 40 A0 12 02 00 00 00 00 00
+00 00 00 00 00 00 00 00 
+
+49 76 61 6E 00 7F 00 00 00 00 00 00 00 00 00 00
+61 BA DE 07 33 33 63 40 AD 8E 03 00 FE 7F 00 00
+30 8E F2 2C FE 7F 00 00 
+
+4F 6C 65 67 00 7F 00 00 26 C7 B4 0D 59 7F 00 00
+AC 8E DF 07 EC 51 98 40 B0 8E 02 00 FE 7F 00 00
+30 8E F2 2C FE 7F 00 00 
+
